@@ -1,4 +1,6 @@
 # DATN
-DATN_ADMIN : Admin page 
-DATN_BACKEND : Backend 
-TechnogymApp : Application 
+DATN_ADMIN Folder: Admin page 
+
+DATN_BACKEND Folder: Backend 
+
+TechnogymApp Folder: Application 
