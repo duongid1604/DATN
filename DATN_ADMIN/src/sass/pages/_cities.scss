@@ -1,0 +1,18 @@
+.cities {
+  header {
+    display: flex;
+    justify-content: space-between;
+  }
+  &__create {
+    &__form {
+      padding-top: 70px;
+      display: flex;
+      flex-direction: column;
+      row-gap: 10px;
+      width: 40%;
+      .error-message {
+        color: red;
+      }
+    }
+  }
+}
